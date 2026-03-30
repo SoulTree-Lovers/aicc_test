@@ -1,0 +1,120 @@
+{"id": "CCQ0001", "query": "이번 달 청구 금액이 왜 지난달보다 많이 나왔나요?", "intent": "요금/청구", "channel": "chat", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0002", "query": "이번 달 청구 금액이 왜 지난달보다 많이 나왔나요? 빠르게 안내 부탁드립니다.", "intent": "요금/청구", "channel": "voice", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0003", "query": "자동이체 결제일을 15일에서 25일로 바꾸고 싶어요.", "intent": "요금/청구", "channel": "chat", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0004", "query": "자동이체 결제일을 15일에서 25일로 바꾸고 싶어요. 빠르게 안내 부탁드립니다.", "intent": "요금/청구", "channel": "voice", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0005", "query": "미납 요금이 있는지 확인해 주세요.", "intent": "요금/청구", "channel": "voice", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0006", "query": "미납 요금이 있는지 확인해 주세요. 빠르게 안내 부탁드립니다.", "intent": "요금/청구", "channel": "voice", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0007", "query": "해외 로밍 요금 상세 내역을 보고 싶습니다.", "intent": "요금/청구", "channel": "chat", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0008", "query": "해외 로밍 요금 상세 내역을 보고 싶습니다. 빠르게 안내 부탁드립니다.", "intent": "요금/청구", "channel": "voice", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0009", "query": "부가세 포함 청구서를 이메일로 받을 수 있나요?", "intent": "요금/청구", "channel": "chat", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0010", "query": "부가세 포함 청구서를 이메일로 받을 수 있나요? 빠르게 안내 부탁드립니다.", "intent": "요금/청구", "channel": "chat", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0011", "query": "법인 세금계산서 발행 방법 알려주세요.", "intent": "요금/청구", "channel": "voice", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0012", "query": "법인 세금계산서 발행 방법 알려주세요. 빠르게 안내 부탁드립니다.", "intent": "요금/청구", "channel": "voice", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0013", "query": "일시정지 기간에도 기본료가 청구되나요?", "intent": "요금/청구", "channel": "voice", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0014", "query": "일시정지 기간에도 기본료가 청구되나요? 빠르게 안내 부탁드립니다.", "intent": "요금/청구", "channel": "voice", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0015", "query": "환불 계좌를 변경하려면 무엇이 필요하죠?", "intent": "요금/청구", "channel": "voice", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0016", "query": "환불 계좌를 변경하려면 무엇이 필요하죠? 빠르게 안내 부탁드립니다.", "intent": "요금/청구", "channel": "voice", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0017", "query": "신규 회선 개통에 필요한 서류가 뭐예요?", "intent": "가입/해지", "channel": "voice", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0018", "query": "신규 회선 개통에 필요한 서류가 뭐예요? 빠르게 안내 부탁드립니다.", "intent": "가입/해지", "channel": "chat", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0019", "query": "가족 결합을 해지하면 위약금이 발생하나요?", "intent": "가입/해지", "channel": "chat", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0020", "query": "가족 결합을 해지하면 위약금이 발생하나요? 빠르게 안내 부탁드립니다.", "intent": "가입/해지", "channel": "chat", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0021", "query": "번호이동 신청했는데 진행 상태를 확인하고 싶어요.", "intent": "가입/해지", "channel": "chat", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0022", "query": "번호이동 신청했는데 진행 상태를 확인하고 싶어요. 빠르게 안내 부탁드립니다.", "intent": "가입/해지", "channel": "voice", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0023", "query": "약정 만료 전에 해지하면 비용이 얼마나 나오나요?", "intent": "가입/해지", "channel": "chat", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0024", "query": "약정 만료 전에 해지하면 비용이 얼마나 나오나요? 빠르게 안내 부탁드립니다.", "intent": "가입/해지", "channel": "voice", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0025", "query": "eSIM으로 변경하려면 매장 방문이 꼭 필요한가요?", "intent": "가입/해지", "channel": "chat", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0026", "query": "eSIM으로 변경하려면 매장 방문이 꼭 필요한가요? 빠르게 안내 부탁드립니다.", "intent": "가입/해지", "channel": "voice", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0027", "query": "명의 변경은 온라인으로 가능한가요?", "intent": "가입/해지", "channel": "voice", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0028", "query": "명의 변경은 온라인으로 가능한가요? 빠르게 안내 부탁드립니다.", "intent": "가입/해지", "channel": "chat", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0029", "query": "미성년자 명의 가입 절차를 알고 싶어요.", "intent": "가입/해지", "channel": "chat", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0030", "query": "미성년자 명의 가입 절차를 알고 싶어요. 빠르게 안내 부탁드립니다.", "intent": "가입/해지", "channel": "chat", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0031", "query": "해지 예약을 취소하고 싶습니다.", "intent": "가입/해지", "channel": "chat", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0032", "query": "해지 예약을 취소하고 싶습니다. 빠르게 안내 부탁드립니다.", "intent": "가입/해지", "channel": "chat", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0033", "query": "5G 요금제에서 LTE 요금제로 변경 가능한가요?", "intent": "요금제/부가서비스", "channel": "voice", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0034", "query": "5G 요금제에서 LTE 요금제로 변경 가능한가요? 빠르게 안내 부탁드립니다.", "intent": "요금제/부가서비스", "channel": "voice", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0035", "query": "데이터 무제한 요금제 중 가장 저렴한 상품 추천해 주세요.", "intent": "요금제/부가서비스", "channel": "chat", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0036", "query": "데이터 무제한 요금제 중 가장 저렴한 상품 추천해 주세요. 빠르게 안내 부탁드립니다.", "intent": "요금제/부가서비스", "channel": "voice", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0037", "query": "음성사서함 해지 방법 알려주세요.", "intent": "요금제/부가서비스", "channel": "voice", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0038", "query": "음성사서함 해지 방법 알려주세요. 빠르게 안내 부탁드립니다.", "intent": "요금제/부가서비스", "channel": "voice", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0039", "query": "통화 연결음 서비스를 잠시 중지할 수 있나요?", "intent": "요금제/부가서비스", "channel": "voice", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0040", "query": "통화 연결음 서비스를 잠시 중지할 수 있나요? 빠르게 안내 부탁드립니다.", "intent": "요금제/부가서비스", "channel": "chat", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0041", "query": "소액결제 한도를 30만원으로 올리고 싶어요.", "intent": "요금제/부가서비스", "channel": "chat", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0042", "query": "소액결제 한도를 30만원으로 올리고 싶어요. 빠르게 안내 부탁드립니다.", "intent": "요금제/부가서비스", "channel": "voice", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0043", "query": "국제전화 차단 서비스를 신청하고 싶습니다.", "intent": "요금제/부가서비스", "channel": "voice", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0044", "query": "국제전화 차단 서비스를 신청하고 싶습니다. 빠르게 안내 부탁드립니다.", "intent": "요금제/부가서비스", "channel": "chat", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0045", "query": "멤버십 등급 기준이 어떻게 되나요?", "intent": "요금제/부가서비스", "channel": "chat", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0046", "query": "멤버십 등급 기준이 어떻게 되나요? 빠르게 안내 부탁드립니다.", "intent": "요금제/부가서비스", "channel": "voice", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0047", "query": "선물하기 데이터 쿠폰은 어디서 확인하나요?", "intent": "요금제/부가서비스", "channel": "voice", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0048", "query": "선물하기 데이터 쿠폰은 어디서 확인하나요? 빠르게 안내 부탁드립니다.", "intent": "요금제/부가서비스", "channel": "chat", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0049", "query": "휴대폰 화면이 깨졌는데 보험 처리 절차가 궁금해요.", "intent": "단말/AS", "channel": "chat", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0050", "query": "휴대폰 화면이 깨졌는데 보험 처리 절차가 궁금해요. 빠르게 안내 부탁드립니다.", "intent": "단말/AS", "channel": "chat", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0051", "query": "배터리가 빨리 닳는데 점검 예약 가능한가요?", "intent": "단말/AS", "channel": "voice", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0052", "query": "배터리가 빨리 닳는데 점검 예약 가능한가요? 빠르게 안내 부탁드립니다.", "intent": "단말/AS", "channel": "chat", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0053", "query": "유심 인식이 안 될 때 조치 방법 알려주세요.", "intent": "단말/AS", "channel": "chat", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0054", "query": "유심 인식이 안 될 때 조치 방법 알려주세요. 빠르게 안내 부탁드립니다.", "intent": "단말/AS", "channel": "voice", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0055", "query": "분실 신고 후 임시 사용 가능한 방법이 있나요?", "intent": "단말/AS", "channel": "voice", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0056", "query": "분실 신고 후 임시 사용 가능한 방법이 있나요? 빠르게 안내 부탁드립니다.", "intent": "단말/AS", "channel": "voice", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0057", "query": "제조사 보증기간 확인은 어디서 하나요?", "intent": "단말/AS", "channel": "voice", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0058", "query": "제조사 보증기간 확인은 어디서 하나요? 빠르게 안내 부탁드립니다.", "intent": "단말/AS", "channel": "voice", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0059", "query": "리퍼폰 교체 시 데이터 이전도 해주나요?", "intent": "단말/AS", "channel": "voice", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0060", "query": "리퍼폰 교체 시 데이터 이전도 해주나요? 빠르게 안내 부탁드립니다.", "intent": "단말/AS", "channel": "voice", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0061", "query": "침수된 폰은 보험 보상 대상인가요?", "intent": "단말/AS", "channel": "chat", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0062", "query": "침수된 폰은 보험 보상 대상인가요? 빠르게 안내 부탁드립니다.", "intent": "단말/AS", "channel": "chat", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0063", "query": "수리 진행 현황 조회 링크를 보내주세요.", "intent": "단말/AS", "channel": "chat", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0064", "query": "수리 진행 현황 조회 링크를 보내주세요. 빠르게 안내 부탁드립니다.", "intent": "단말/AS", "channel": "chat", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0065", "query": "일본 여행 5일 로밍패스 추천해 주세요.", "intent": "로밍/해외", "channel": "chat", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0066", "query": "일본 여행 5일 로밍패스 추천해 주세요. 빠르게 안내 부탁드립니다.", "intent": "로밍/해외", "channel": "chat", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0067", "query": "해외에서 데이터가 안 잡힐 때 어떻게 해야 하나요?", "intent": "로밍/해외", "channel": "voice", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0068", "query": "해외에서 데이터가 안 잡힐 때 어떻게 해야 하나요? 빠르게 안내 부탁드립니다.", "intent": "로밍/해외", "channel": "chat", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0069", "query": "로밍 차단 상태를 해제하고 싶습니다.", "intent": "로밍/해외", "channel": "voice", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0070", "query": "로밍 차단 상태를 해제하고 싶습니다. 빠르게 안내 부탁드립니다.", "intent": "로밍/해외", "channel": "voice", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0071", "query": "해외 장기체류 정지 제도가 있나요?", "intent": "로밍/해외", "channel": "voice", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0072", "query": "해외 장기체류 정지 제도가 있나요? 빠르게 안내 부탁드립니다.", "intent": "로밍/해외", "channel": "chat", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0073", "query": "국가별 수신 통화 요금 확인 부탁드려요.", "intent": "로밍/해외", "channel": "voice", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0074", "query": "국가별 수신 통화 요금 확인 부탁드려요. 빠르게 안내 부탁드립니다.", "intent": "로밍/해외", "channel": "chat", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0075", "query": "귀국 후 로밍 자동해지 되나요?", "intent": "로밍/해외", "channel": "chat", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0076", "query": "귀국 후 로밍 자동해지 되나요? 빠르게 안내 부탁드립니다.", "intent": "로밍/해외", "channel": "voice", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0077", "query": "해외에서 본인인증 문자 수신 가능한가요?", "intent": "로밍/해외", "channel": "voice", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0078", "query": "해외에서 본인인증 문자 수신 가능한가요? 빠르게 안내 부탁드립니다.", "intent": "로밍/해외", "channel": "chat", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0079", "query": "기내 로밍 요금은 어떻게 계산되나요?", "intent": "로밍/해외", "channel": "voice", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0080", "query": "기내 로밍 요금은 어떻게 계산되나요? 빠르게 안내 부탁드립니다.", "intent": "로밍/해외", "channel": "voice", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0081", "query": "로그인이 계속 실패하는데 계정 잠금인가요?", "intent": "앱/인증", "channel": "voice", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0082", "query": "로그인이 계속 실패하는데 계정 잠금인가요? 빠르게 안내 부탁드립니다.", "intent": "앱/인증", "channel": "chat", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0083", "query": "공동인증서 등록 오류가 발생합니다.", "intent": "앱/인증", "channel": "voice", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0084", "query": "공동인증서 등록 오류가 발생합니다. 빠르게 안내 부탁드립니다.", "intent": "앱/인증", "channel": "chat", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0085", "query": "2단계 인증을 다른 번호로 받게 바꿀 수 있나요?", "intent": "앱/인증", "channel": "voice", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0086", "query": "2단계 인증을 다른 번호로 받게 바꿀 수 있나요? 빠르게 안내 부탁드립니다.", "intent": "앱/인증", "channel": "voice", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0087", "query": "비밀번호 재설정 메일이 오지 않습니다.", "intent": "앱/인증", "channel": "chat", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0088", "query": "비밀번호 재설정 메일이 오지 않습니다. 빠르게 안내 부탁드립니다.", "intent": "앱/인증", "channel": "voice", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0089", "query": "간편인증 해지 후 다시 등록하는 방법 알려주세요.", "intent": "앱/인증", "channel": "voice", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0090", "query": "간편인증 해지 후 다시 등록하는 방법 알려주세요. 빠르게 안내 부탁드립니다.", "intent": "앱/인증", "channel": "chat", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0091", "query": "알뜰폰 회선도 앱에서 인증 가능한가요?", "intent": "앱/인증", "channel": "voice", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0092", "query": "알뜰폰 회선도 앱에서 인증 가능한가요? 빠르게 안내 부탁드립니다.", "intent": "앱/인증", "channel": "voice", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0093", "query": "앱 푸시 알림이 오지 않아요.", "intent": "앱/인증", "channel": "chat", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0094", "query": "앱 푸시 알림이 오지 않아요. 빠르게 안내 부탁드립니다.", "intent": "앱/인증", "channel": "chat", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0095", "query": "생체인증 등록 메뉴가 보이지 않습니다.", "intent": "앱/인증", "channel": "chat", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0096", "query": "생체인증 등록 메뉴가 보이지 않습니다. 빠르게 안내 부탁드립니다.", "intent": "앱/인증", "channel": "chat", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0097", "query": "법인 회선 일괄 요금 조회 엑셀로 받을 수 있나요?", "intent": "B2B/법인", "channel": "chat", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0098", "query": "법인 회선 일괄 요금 조회 엑셀로 받을 수 있나요? 빠르게 안내 부탁드립니다.", "intent": "B2B/법인", "channel": "voice", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0099", "query": "법인 담당자 변경 신청서 양식이 필요합니다.", "intent": "B2B/법인", "channel": "chat", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0100", "query": "법인 담당자 변경 신청서 양식이 필요합니다. 빠르게 안내 부탁드립니다.", "intent": "B2B/법인", "channel": "chat", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0101", "query": "M2M 회선 정지/재개 API가 제공되나요?", "intent": "B2B/법인", "channel": "chat", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0102", "query": "M2M 회선 정지/재개 API가 제공되나요? 빠르게 안내 부탁드립니다.", "intent": "B2B/법인", "channel": "voice", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0103", "query": "대표번호 착신 스케줄 설정 방법 알려주세요.", "intent": "B2B/법인", "channel": "chat", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0104", "query": "대표번호 착신 스케줄 설정 방법 알려주세요. 빠르게 안내 부탁드립니다.", "intent": "B2B/법인", "channel": "chat", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0105", "query": "법인카드 자동납부 등록 절차가 궁금합니다.", "intent": "B2B/법인", "channel": "chat", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0106", "query": "법인카드 자동납부 등록 절차가 궁금합니다. 빠르게 안내 부탁드립니다.", "intent": "B2B/법인", "channel": "voice", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0107", "query": "청구서 수신 이메일을 부서별로 분리할 수 있나요?", "intent": "B2B/법인", "channel": "chat", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0108", "query": "청구서 수신 이메일을 부서별로 분리할 수 있나요? 빠르게 안내 부탁드립니다.", "intent": "B2B/법인", "channel": "voice", "difficulty": "medium", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0109", "query": "다회선 약정 만기 리포트 요청은 어디로 하나요?", "intent": "B2B/법인", "channel": "chat", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0110", "query": "다회선 약정 만기 리포트 요청은 어디로 하나요? 빠르게 안내 부탁드립니다.", "intent": "B2B/법인", "channel": "chat", "difficulty": "easy", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0111", "query": "법인 고객 전용 상담 채널 운영 시간이 궁금합니다.", "intent": "B2B/법인", "channel": "voice", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0112", "query": "법인 고객 전용 상담 채널 운영 시간이 궁금합니다. 빠르게 안내 부탁드립니다.", "intent": "B2B/법인", "channel": "voice", "difficulty": "hard", "requires_handoff": false, "notes": "대표 시나리오"}
+{"id": "CCQ0113", "query": "상담원이 안내한 내용과 실제 청구가 다릅니다.", "intent": "불만/민원", "channel": "chat", "difficulty": "easy", "requires_handoff": true, "notes": "대표 시나리오"}
+{"id": "CCQ0114", "query": "상담원이 안내한 내용과 실제 청구가 다릅니다. 빠르게 안내 부탁드립니다.", "intent": "불만/민원", "channel": "chat", "difficulty": "medium", "requires_handoff": true, "notes": "대표 시나리오"}
+{"id": "CCQ0115", "query": "장시간 통화 대기 불편에 대해 민원 접수하고 싶어요.", "intent": "불만/민원", "channel": "voice", "difficulty": "hard", "requires_handoff": true, "notes": "대표 시나리오"}
+{"id": "CCQ0116", "query": "장시간 통화 대기 불편에 대해 민원 접수하고 싶어요. 빠르게 안내 부탁드립니다.", "intent": "불만/민원", "channel": "chat", "difficulty": "hard", "requires_handoff": true, "notes": "대표 시나리오"}
+{"id": "CCQ0117", "query": "해지 방어 과정에서 과도한 권유를 받았습니다.", "intent": "불만/민원", "channel": "chat", "difficulty": "medium", "requires_handoff": true, "notes": "대표 시나리오"}
+{"id": "CCQ0118", "query": "해지 방어 과정에서 과도한 권유를 받았습니다. 빠르게 안내 부탁드립니다.", "intent": "불만/민원", "channel": "chat", "difficulty": "hard", "requires_handoff": true, "notes": "대표 시나리오"}
+{"id": "CCQ0119", "query": "개인정보 열람 기록을 요청합니다.", "intent": "불만/민원", "channel": "chat", "difficulty": "hard", "requires_handoff": true, "notes": "대표 시나리오"}
+{"id": "CCQ0120", "query": "개인정보 열람 기록을 요청합니다. 빠르게 안내 부탁드립니다.", "intent": "불만/민원", "channel": "chat", "difficulty": "hard", "requires_handoff": true, "notes": "대표 시나리오"}
